@@ -1,7 +1,8 @@
 arxiv:
   categories:  # 文章类型
-    - cs.CV
-    - cs.CL
+    - cond-mat.mes-hall
+    - quant-ph
+    - cond-mat.supr-con
 
 llm:
-  model_name: 'deepseek-chat'  # 使用的LLM模型
+  model_name: 'Qwen3.5-397B-A17B'  # 使用的LLM模型
